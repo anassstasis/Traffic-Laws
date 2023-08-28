@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E3C12786-5FD0-4B80-B671-5DF59593B21C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>for_driving</RootNamespace>
+    <AssemblyName>for_driving</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="answers.cs">
+      <DependentUpon>Model15.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Authorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authorization.Designer.cs">
+      <DependentUpon>Authorization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit.Designer.cs">
+      <DependentUpon>Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help.Designer.cs">
+      <DependentUpon>Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model11.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model11.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model11.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model11.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model11.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Model13.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model13.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model13.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model13.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model13.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model13.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Model15.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model15.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model15.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model15.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model15.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model15.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="questions.cs">
+      <DependentUpon>Model15.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sysdiagrams.cs">
+      <DependentUpon>Model13.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test.Designer.cs">
+      <DependentUpon>Test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Theory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Theory.Designer.cs">
+      <DependentUpon>Theory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="topics.cs">
+      <DependentUpon>Model15.tt</DependentUpon>
+    </Compile>
+    <Compile Include="T_Regulations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_Regulations.Designer.cs">
+      <DependentUpon>T_Regulations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="users.cs">
+      <DependentUpon>Model15.tt</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Authorization.resx">
+      <DependentUpon>Authorization.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit.resx">
+      <DependentUpon>Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help.resx">
+      <DependentUpon>Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test.resx">
+      <DependentUpon>Test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Theory.resx">
+      <DependentUpon>Theory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_Regulations.resx">
+      <DependentUpon>T_Regulations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EntityDeploy Include="Model11.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model11.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Model11.edmx.diagram">
+      <DependentUpon>Model11.edmx</DependentUpon>
+    </None>
+    <EntityDeploy Include="Model13.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model13.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Model13.edmx.diagram">
+      <DependentUpon>Model13.edmx</DependentUpon>
+    </None>
+    <EntityDeploy Include="Model15.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model15.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Model15.edmx.diagram">
+      <DependentUpon>Model15.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\pdd-2023.pdf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0.jpg" />
+    <None Include="Resources\41.jpg" />
+    <None Include="Resources\330.jpg" />
+    <None Include="Resources\329.jpg" />
+    <None Include="Resources\328.jpg" />
+    <None Include="Resources\325.jpg" />
+    <None Include="Resources\324.jpg" />
+    <None Include="Resources\322.jpg" />
+    <None Include="Resources\321.jpg" />
+    <None Include="Resources\319.jpg" />
+    <None Include="Resources\318.jpg" />
+    <None Include="Resources\317.jpg" />
+    <None Include="Resources\303.jpg" />
+    <None Include="Resources\301.jpg" />
+    <None Include="Resources\295.jpg" />
+    <None Include="Resources\274.jpg" />
+    <None Include="Resources\272.jpg" />
+    <None Include="Resources\271.jpg" />
+    <None Include="Resources\266.jpg" />
+    <None Include="Resources\264.jpg" />
+    <None Include="Resources\263.jpg" />
+    <None Include="Resources\258.jpg" />
+    <None Include="Resources\248.jpg" />
+    <None Include="Resources\246.jpg" />
+    <None Include="Resources\234.jpg" />
+    <None Include="Resources\233.jpg" />
+    <None Include="Resources\232.jpg" />
+    <None Include="Resources\231.jpg" />
+    <None Include="Resources\230.jpg" />
+    <None Include="Resources\229.jpg" />
+    <None Include="Resources\228.jpg" />
+    <None Include="Resources\227.jpg" />
+    <None Include="Resources\224.jpg" />
+    <None Include="Resources\222.jpg" />
+    <None Include="Resources\221.jpg" />
+    <None Include="Resources\219.jpg" />
+    <None Include="Resources\218.jpg" />
+    <None Include="Resources\216.jpg" />
+    <None Include="Resources\215.jpg" />
+    <None Include="Resources\211.jpg" />
+    <None Include="Resources\210.jpg" />
+    <None Include="Resources\209.jpg" />
+    <None Include="Resources\208.jpg" />
+    <None Include="Resources\207.jpg" />
+    <None Include="Resources\206.jpg" />
+    <None Include="Resources\205.jpg" />
+    <None Include="Resources\204.jpg" />
+    <None Include="Resources\203.jpg" />
+    <None Include="Resources\200.jpg" />
+    <None Include="Resources\196.jpg" />
+    <None Include="Resources\195.jpg" />
+    <None Include="Resources\194.jpg" />
+    <None Include="Resources\193.jpg" />
+    <None Include="Resources\192.jpg" />
+    <None Include="Resources\191.jpg" />
+    <None Include="Resources\190.jpg" />
+    <None Include="Resources\189.jpg" />
+    <None Include="Resources\188.jpg" />
+    <None Include="Resources\187.jpg" />
+    <None Include="Resources\186.jpg" />
+    <None Include="Resources\185.jpg" />
+    <None Include="Resources\184.jpg" />
+    <None Include="Resources\183.jpg" />
+    <None Include="Resources\182.jpg" />
+    <None Include="Resources\181.jpg" />
+    <None Include="Resources\180.jpg" />
+    <None Include="Resources\179.jpg" />
+    <None Include="Resources\178.jpg" />
+    <None Include="Resources\177.jpg" />
+    <None Include="Resources\173.jpg" />
+    <None Include="Resources\172.jpg" />
+    <None Include="Resources\171.jpg" />
+    <None Include="Resources\170.jpg" />
+    <None Include="Resources\169.jpg" />
+    <None Include="Resources\168.jpg" />
+    <None Include="Resources\166.jpg" />
+    <None Include="Resources\165.jpg" />
+    <None Include="Resources\160.jpg" />
+    <None Include="Resources\159.jpg" />
+    <None Include="Resources\158.jpg" />
+    <None Include="Resources\157.jpg" />
+    <None Include="Resources\156.jpg" />
+    <None Include="Resources\153.jpg" />
+    <None Include="Resources\152.jpg" />
+    <None Include="Resources\151.jpg" />
+    <None Include="Resources\150.jpg" />
+    <None Include="Resources\148.jpg" />
+    <None Include="Resources\145.png" />
+    <None Include="Resources\144.jpg" />
+    <None Include="Resources\143.jpg" />
+    <None Include="Resources\142.jpg" />
+    <None Include="Resources\141.jpg" />
+    <None Include="Resources\140.jpg" />
+    <None Include="Resources\139.jpg" />
+    <None Include="Resources\136.jpg" />
+    <None Include="Resources\135.jpg" />
+    <None Include="Resources\134.jpg" />
+    <None Include="Resources\133.jpg" />
+    <None Include="Resources\132.jpg" />
+    <None Include="Resources\131.jpg" />
+    <None Include="Resources\130.jpg" />
+    <None Include="Resources\129.jpg" />
+    <None Include="Resources\128.jpg" />
+    <None Include="Resources\127.jpg" />
+    <None Include="Resources\126.jpg" />
+    <None Include="Resources\125.jpg" />
+    <None Include="Resources\124.jpg" />
+    <None Include="Resources\122.jpg" />
+    <None Include="Resources\121.jpg" />
+    <None Include="Resources\118.jpg" />
+    <None Include="Resources\116.jpg" />
+    <None Include="Resources\113.jpg" />
+    <None Include="Resources\112.jpg" />
+    <None Include="Resources\111.jpg" />
+    <None Include="Resources\109.jpg" />
+    <None Include="Resources\108.jpg" />
+    <None Include="Resources\107.jpg" />
+    <None Include="Resources\106.jpg" />
+    <None Include="Resources\105.jpg" />
+    <None Include="Resources\104.jpg" />
+    <None Include="Resources\103.jpg" />
+    <None Include="Resources\102.jpg" />
+    <None Include="Resources\101.jpg" />
+    <None Include="Resources\100.jpg" />
+    <None Include="Resources\99.jpg" />
+    <None Include="Resources\98.jpg" />
+    <None Include="Resources\96.jpg" />
+    <None Include="Resources\94.jpg" />
+    <None Include="Resources\93.jpg" />
+    <None Include="Resources\92.jpg" />
+    <None Include="Resources\91.jpg" />
+    <None Include="Resources\90.jpg" />
+    <None Include="Resources\89.jpg" />
+    <None Include="Resources\87.jpg" />
+    <None Include="Resources\85.jpg" />
+    <None Include="Resources\84.jpg" />
+    <None Include="Resources\83.jpg" />
+    <None Include="Resources\81.jpg" />
+    <None Include="Resources\80.jpg" />
+    <None Include="Resources\79.jpg" />
+    <None Include="Resources\78.jpg" />
+    <None Include="Resources\77.jpg" />
+    <None Include="Resources\75.jpg" />
+    <None Include="Resources\74.jpg" />
+    <None Include="Resources\73.jpg" />
+    <None Include="Resources\71.jpg" />
+    <None Include="Resources\70.jpg" />
+    <None Include="Resources\69.jpg" />
+    <None Include="Resources\68.jpg" />
+    <None Include="Resources\66.jpg" />
+    <None Include="Resources\65.jpg" />
+    <None Include="Resources\64.jpg" />
+    <None Include="Resources\63.jpg" />
+    <None Include="Resources\62.jpg" />
+    <None Include="Resources\61.jpg" />
+    <None Include="Resources\60.jpg" />
+    <None Include="Resources\59.jpg" />
+    <None Include="Resources\58.jpg" />
+    <None Include="Resources\57.jpg" />
+    <None Include="Resources\56.jpg" />
+    <None Include="Resources\55.jpg" />
+    <None Include="Resources\54.jpg" />
+    <None Include="Resources\53.jpg" />
+    <None Include="Resources\52.jpg" />
+    <None Include="Resources\51.jpg" />
+    <None Include="Resources\50.jpg" />
+    <None Include="Resources\49.jpg" />
+    <None Include="Resources\48.jpg" />
+    <None Include="Resources\47.jpg" />
+    <None Include="Resources\46.jpg" />
+    <None Include="Resources\45.jpg" />
+    <None Include="Resources\44.jpg" />
+    <None Include="Resources\43.jpg" />
+    <None Include="Resources\42.jpg" />
+    <None Include="Resources\25.jpg" />
+    <None Include="Resources\24.png" />
+    <None Include="Resources\23.jpg" />
+    <None Include="Resources\22.jpg" />
+    <None Include="Resources\19.jpg" />
+    <None Include="Resources\18.jpg" />
+    <None Include="Resources\16.jpg" />
+    <None Include="Resources\15.jpg" />
+    <None Include="Resources\14.jpg" />
+    <None Include="Resources\12.jpg" />
+    <None Include="Resources\11.jpg" />
+    <None Include="Resources\10.jpg" />
+    <None Include="Resources\8.jpg" />
+    <None Include="Resources\4.jpg" />
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Model11.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model11.edmx</DependentUpon>
+      <LastGenOutput>Model11.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Model11.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model11.edmx</DependentUpon>
+      <LastGenOutput>Model11.cs</LastGenOutput>
+    </Content>
+    <Content Include="Model13.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model13.edmx</DependentUpon>
+      <LastGenOutput>Model13.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Model13.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model13.edmx</DependentUpon>
+      <LastGenOutput>Model13.cs</LastGenOutput>
+    </Content>
+    <Content Include="Model15.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model15.edmx</DependentUpon>
+      <LastGenOutput>Model15.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Model15.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model15.edmx</DependentUpon>
+      <LastGenOutput>Model15.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

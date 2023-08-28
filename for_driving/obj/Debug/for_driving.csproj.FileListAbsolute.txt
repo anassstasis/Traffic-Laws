@@ -1,0 +1,768 @@
+C:\Users\yakun\source\repos\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\source\repos\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\source\repos\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\source\repos\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\source\repos\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\source\repos\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\source\repos\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\source\repos\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\source\repos\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\source\repos\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\source\repos\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\source\repos\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\source\repos\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\source\repos\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\source\repos\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\source\repos\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\source\repos\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\source\repos\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\source\repos\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\2ver\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\3ver\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\4 ver\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\5ver\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\6ver\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\7ver\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\8ver\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\9ver\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10ver\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\11ver\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\13ver\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\14ver\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\15ver\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\16ver\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\17_ver\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\1\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\2\for_driving\for_driving\obj\Debug\for_driving.Help.resources
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\obj\Debug\for_driving.Help.resources
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\3\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\obj\Debug\for_driving.Help.resources
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\6\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\obj\Debug\for_driving.Help.resources
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\7\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\for_driving.Help.resources
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\10\for_driving\for_driving\obj\Debug\for_driving.Edit.resources
+D:\рабочее\for_driving\for_driving\bin\Debug\for_driving.exe.config
+D:\рабочее\for_driving\for_driving\bin\Debug\for_driving.exe
+D:\рабочее\for_driving\for_driving\bin\Debug\for_driving.pdb
+D:\рабочее\for_driving\for_driving\bin\Debug\EntityFramework.dll
+D:\рабочее\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+D:\рабочее\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+D:\рабочее\for_driving\for_driving\bin\Debug\EntityFramework.xml
+D:\рабочее\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+D:\рабочее\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+D:\рабочее\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\рабочее\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+D:\рабочее\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\рабочее\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+D:\рабочее\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+D:\рабочее\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\рабочее\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+D:\рабочее\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+D:\рабочее\for_driving\for_driving\obj\Debug\for_driving.Edit.resources
+D:\рабочее\for_driving\for_driving\obj\Debug\for_driving.Help.resources
+D:\рабочее\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+D:\рабочее\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+D:\рабочее\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+D:\рабочее\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+D:\рабочее\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+D:\рабочее\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+D:\рабочее\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+D:\рабочее\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+D:\рабочее\for_driving\for_driving\obj\Debug\for_driving.exe
+D:\рабочее\for_driving\for_driving\obj\Debug\for_driving.pdb
+F:\рабочее\for_driving\for_driving\bin\Debug\for_driving.exe.config
+F:\рабочее\for_driving\for_driving\bin\Debug\for_driving.exe
+F:\рабочее\for_driving\for_driving\bin\Debug\for_driving.pdb
+F:\рабочее\for_driving\for_driving\bin\Debug\EntityFramework.dll
+F:\рабочее\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+F:\рабочее\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+F:\рабочее\for_driving\for_driving\bin\Debug\EntityFramework.xml
+F:\рабочее\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+F:\рабочее\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+F:\рабочее\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+F:\рабочее\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+F:\рабочее\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\рабочее\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+F:\рабочее\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+F:\рабочее\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\рабочее\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+F:\рабочее\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+F:\рабочее\for_driving\for_driving\obj\Debug\for_driving.Edit.resources
+F:\рабочее\for_driving\for_driving\obj\Debug\for_driving.Help.resources
+F:\рабочее\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+F:\рабочее\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+F:\рабочее\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+F:\рабочее\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+F:\рабочее\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+F:\рабочее\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+F:\рабочее\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+F:\рабочее\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+F:\рабочее\for_driving\for_driving\obj\Debug\for_driving.exe
+F:\рабочее\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\for_driving.Edit.resources
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\for_driving.Help.resources
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\рабочее\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+D:\рабочее1\for_driving\for_driving\bin\Debug\for_driving.exe.config
+D:\рабочее1\for_driving\for_driving\bin\Debug\for_driving.exe
+D:\рабочее1\for_driving\for_driving\bin\Debug\for_driving.pdb
+D:\рабочее1\for_driving\for_driving\bin\Debug\EntityFramework.dll
+D:\рабочее1\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+D:\рабочее1\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+D:\рабочее1\for_driving\for_driving\bin\Debug\EntityFramework.xml
+D:\рабочее1\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+D:\рабочее1\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+D:\рабочее1\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\рабочее1\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+D:\рабочее1\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+D:\рабочее1\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+D:\рабочее1\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+D:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+D:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Edit.resources
+D:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Help.resources
+D:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+D:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+D:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+D:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+D:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+D:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+D:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+D:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+D:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.exe
+D:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.pdb
+E:\рабочее1\for_driving\for_driving\bin\Debug\for_driving.exe.config
+E:\рабочее1\for_driving\for_driving\bin\Debug\for_driving.exe
+E:\рабочее1\for_driving\for_driving\bin\Debug\for_driving.pdb
+E:\рабочее1\for_driving\for_driving\bin\Debug\EntityFramework.dll
+E:\рабочее1\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+E:\рабочее1\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+E:\рабочее1\for_driving\for_driving\bin\Debug\EntityFramework.xml
+E:\рабочее1\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+E:\рабочее1\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+E:\рабочее1\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\рабочее1\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+E:\рабочее1\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+E:\рабочее1\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+E:\рабочее1\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+E:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+E:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Edit.resources
+E:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Help.resources
+E:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+E:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+E:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+E:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+E:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+E:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+E:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+E:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+E:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.exe
+E:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.pdb
+F:\рабочее1\for_driving\for_driving\bin\Debug\for_driving.exe.config
+F:\рабочее1\for_driving\for_driving\bin\Debug\for_driving.exe
+F:\рабочее1\for_driving\for_driving\bin\Debug\for_driving.pdb
+F:\рабочее1\for_driving\for_driving\bin\Debug\EntityFramework.dll
+F:\рабочее1\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+F:\рабочее1\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+F:\рабочее1\for_driving\for_driving\bin\Debug\EntityFramework.xml
+F:\рабочее1\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+F:\рабочее1\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+F:\рабочее1\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+F:\рабочее1\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+F:\рабочее1\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+F:\рабочее1\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+F:\рабочее1\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+F:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+F:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Edit.resources
+F:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Help.resources
+F:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+F:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+F:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+F:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+F:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+F:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+F:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+F:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+F:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.exe
+F:\рабочее1\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csprojAssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Edit.resources
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Help.resources
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\СУПЕРРАБОЧЕЕ\рабочее1\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\for_driving.csproj.AssemblyReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\for_driving.csproj.ResolveComReference.cache
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\for_driving.Authorization.resources
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\for_driving.Edit.resources
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\for_driving.Help.resources
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\for_driving.Properties.Resources.resources
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\for_driving.Registration.resources
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\for_driving.Test.resources
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\for_driving.Theory.resources
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\for_driving.T_Regulations.resources
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\for_driving.csproj.GenerateResource.cache
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\for_driving.csproj.CoreCompileInputs.cache
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\bin\Debug\for_driving.exe.config
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\bin\Debug\for_driving.exe
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\bin\Debug\for_driving.pdb
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\bin\Debug\EntityFramework.dll
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\bin\Debug\MaterialSkin.dll
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\bin\Debug\EntityFramework.xml
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\yakun\OneDrive\Рабочий стол\for_driving\for_driving\obj\Debug\for_driving.csproj.CopyComplete

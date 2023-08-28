@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="testModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="answers">
+    <Key>
+      <PropertyRef Name="id_answer" />
+    </Key>
+    <Property Name="id_answer" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="question_id" Type="Int32" />
+    <Property Name="answer_text" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" />
+    <Property Name="is_correct" Type="Int32" />
+    <NavigationProperty Name="questions" Relationship="Self.FK_answers_questions" FromRole="answers" ToRole="questions" />
+  </EntityType>
+  <EntityType Name="questions">
+    <Key>
+      <PropertyRef Name="id_question" />
+    </Key>
+    <Property Name="id_question" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="question_text" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" />
+    <Property Name="correct_answer" Type="Int32" />
+    <Property Name="comment" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" />
+    <Property Name="topic_id" Type="Int32" />
+    <Property Name="is_picture" Type="Int32" />
+    <NavigationProperty Name="answers" Relationship="Self.FK_answers_questions" FromRole="questions" ToRole="answers" />
+    <NavigationProperty Name="topics" Relationship="Self.FK_questions_topics" FromRole="questions" ToRole="topics" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="topics">
+    <Key>
+      <PropertyRef Name="id_topic" />
+    </Key>
+    <Property Name="id_topic" Type="Int32" Nullable="false" />
+    <Property Name="name_topic" Type="String" MaxLength="350" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="questions" Relationship="Self.FK_questions_topics" FromRole="topics" ToRole="questions" />
+  </EntityType>
+  <EntityType Name="users">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="login" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="password" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="fio" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="true" Type="Int32" />
+    <Property Name="false" Type="Int32" />
+  </EntityType>
+  <Association Name="FK_answers_questions">
+    <End Role="questions" Type="Self.questions" Multiplicity="0..1" />
+    <End Role="answers" Type="Self.answers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="questions">
+        <PropertyRef Name="id_question" />
+      </Principal>
+      <Dependent Role="answers">
+        <PropertyRef Name="question_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_questions_topics">
+    <End Role="topics" Type="Self.topics" Multiplicity="0..1" />
+    <End Role="questions" Type="Self.questions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="topics">
+        <PropertyRef Name="id_topic" />
+      </Principal>
+      <Dependent Role="questions">
+        <PropertyRef Name="topic_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="testEntities10" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="answers" EntityType="Self.answers" />
+    <EntitySet Name="questions" EntityType="Self.questions" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="topics" EntityType="Self.topics" />
+    <EntitySet Name="users" EntityType="Self.users" />
+    <AssociationSet Name="FK_answers_questions" Association="Self.FK_answers_questions">
+      <End Role="questions" EntitySet="questions" />
+      <End Role="answers" EntitySet="answers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_questions_topics" Association="Self.FK_questions_topics">
+      <End Role="topics" EntitySet="topics" />
+      <End Role="questions" EntitySet="questions" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

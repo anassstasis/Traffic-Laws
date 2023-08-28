@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище ws20Model" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="answers">
+    <Key>
+      <PropertyRef Name="id_answer" />
+    </Key>
+    <Property Name="id_answer" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="question_id" Type="int" />
+    <Property Name="answer_text" Type="nvarchar(max)" />
+    <Property Name="is_correct" Type="int" />
+  </EntityType>
+  <EntityType Name="questions">
+    <Key>
+      <PropertyRef Name="id_question" />
+    </Key>
+    <Property Name="id_question" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="question_text" Type="nvarchar(max)" />
+    <Property Name="correct_answer" Type="int" />
+    <Property Name="comment" Type="nvarchar(max)" />
+    <Property Name="topic_id" Type="int" />
+    <Property Name="is_picture" Type="int" />
+  </EntityType>
+  <EntityType Name="topics">
+    <Key>
+      <PropertyRef Name="id_topic" />
+    </Key>
+    <Property Name="id_topic" Type="int" Nullable="false" />
+    <Property Name="name_topic" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="users">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="login" Type="nvarchar(max)" />
+    <Property Name="password" Type="nvarchar(max)" />
+    <Property Name="fio" Type="nvarchar(max)" />
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="true" Type="int" />
+    <Property Name="false" Type="int" />
+  </EntityType>
+  <Association Name="FK_answers_questions">
+    <End Role="questions" Type="Self.questions" Multiplicity="0..1" />
+    <End Role="answers" Type="Self.answers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="questions">
+        <PropertyRef Name="id_question" />
+      </Principal>
+      <Dependent Role="answers">
+        <PropertyRef Name="question_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_questions_topics">
+    <End Role="topics" Type="Self.topics" Multiplicity="0..1" />
+    <End Role="questions" Type="Self.questions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="topics">
+        <PropertyRef Name="id_topic" />
+      </Principal>
+      <Dependent Role="questions">
+        <PropertyRef Name="topic_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище ws20ModelContainer">
+    <EntitySet Name="answers" EntityType="Self.answers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="questions" EntityType="Self.questions" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="topics" EntityType="Self.topics" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="users" EntityType="Self.users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_answers_questions" Association="Self.FK_answers_questions">
+      <End Role="questions" EntitySet="questions" />
+      <End Role="answers" EntitySet="answers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_questions_topics" Association="Self.FK_questions_topics">
+      <End Role="topics" EntitySet="topics" />
+      <End Role="questions" EntitySet="questions" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

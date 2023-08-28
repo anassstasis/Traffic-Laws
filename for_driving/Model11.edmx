@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище ws20Model" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="answers">
+          <Key>
+            <PropertyRef Name="id_answer" />
+          </Key>
+          <Property Name="id_answer" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="question_id" Type="int" />
+          <Property Name="answer_text" Type="nvarchar(max)" />
+          <Property Name="is_correct" Type="int" />
+        </EntityType>
+        <EntityType Name="questions">
+          <Key>
+            <PropertyRef Name="id_question" />
+          </Key>
+          <Property Name="id_question" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="question_text" Type="nvarchar(max)" />
+          <Property Name="correct_answer" Type="int" />
+          <Property Name="comment" Type="nvarchar(max)" />
+          <Property Name="topic_id" Type="int" />
+          <Property Name="is_picture" Type="int" />
+        </EntityType>
+        <EntityType Name="topics">
+          <Key>
+            <PropertyRef Name="id_topic" />
+          </Key>
+          <Property Name="id_topic" Type="int" Nullable="false" />
+          <Property Name="name_topic" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="users">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="login" Type="nvarchar(max)" />
+          <Property Name="password" Type="nvarchar(max)" />
+          <Property Name="fio" Type="nvarchar(max)" />
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="true" Type="int" />
+          <Property Name="false" Type="int" />
+        </EntityType>
+        <Association Name="FK_answers_questions">
+          <End Role="questions" Type="Self.questions" Multiplicity="0..1" />
+          <End Role="answers" Type="Self.answers" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="questions">
+              <PropertyRef Name="id_question" />
+            </Principal>
+            <Dependent Role="answers">
+              <PropertyRef Name="question_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_questions_topics">
+          <End Role="topics" Type="Self.topics" Multiplicity="0..1" />
+          <End Role="questions" Type="Self.questions" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="topics">
+              <PropertyRef Name="id_topic" />
+            </Principal>
+            <Dependent Role="questions">
+              <PropertyRef Name="topic_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Хранилище ws20ModelContainer">
+          <EntitySet Name="answers" EntityType="Self.answers" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="questions" EntityType="Self.questions" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="topics" EntityType="Self.topics" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="users" EntityType="Self.users" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_answers_questions" Association="Self.FK_answers_questions">
+            <End Role="questions" EntitySet="questions" />
+            <End Role="answers" EntitySet="answers" />
+          </AssociationSet>
+          <AssociationSet Name="FK_questions_topics" Association="Self.FK_questions_topics">
+            <End Role="topics" EntitySet="topics" />
+            <End Role="questions" EntitySet="questions" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ws20Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="answers">
+          <Key>
+            <PropertyRef Name="id_answer" />
+          </Key>
+          <Property Name="id_answer" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="question_id" Type="Int32" />
+          <Property Name="answer_text" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="is_correct" Type="Int32" />
+          <NavigationProperty Name="questions" Relationship="Self.FK_answers_questions" FromRole="answers" ToRole="questions" />
+        </EntityType>
+        <EntityType Name="questions">
+          <Key>
+            <PropertyRef Name="id_question" />
+          </Key>
+          <Property Name="id_question" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="question_text" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="correct_answer" Type="Int32" />
+          <Property Name="comment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="topic_id" Type="Int32" />
+          <Property Name="is_picture" Type="Int32" />
+          <NavigationProperty Name="answers" Relationship="Self.FK_answers_questions" FromRole="questions" ToRole="answers" />
+          <NavigationProperty Name="topics" Relationship="Self.FK_questions_topics" FromRole="questions" ToRole="topics" />
+        </EntityType>
+        <EntityType Name="topics">
+          <Key>
+            <PropertyRef Name="id_topic" />
+          </Key>
+          <Property Name="id_topic" Type="Int32" Nullable="false" />
+          <Property Name="name_topic" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="questions" Relationship="Self.FK_questions_topics" FromRole="topics" ToRole="questions" />
+        </EntityType>
+        <EntityType Name="users">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="login" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="fio" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="true" Type="Int32" />
+          <Property Name="false" Type="Int32" />
+        </EntityType>
+        <Association Name="FK_answers_questions">
+          <End Role="questions" Type="Self.questions" Multiplicity="0..1" />
+          <End Role="answers" Type="Self.answers" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="questions">
+              <PropertyRef Name="id_question" />
+            </Principal>
+            <Dependent Role="answers">
+              <PropertyRef Name="question_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_questions_topics">
+          <End Role="topics" Type="Self.topics" Multiplicity="0..1" />
+          <End Role="questions" Type="Self.questions" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="topics">
+              <PropertyRef Name="id_topic" />
+            </Principal>
+            <Dependent Role="questions">
+              <PropertyRef Name="topic_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="ws20Entities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="answers" EntityType="Self.answers" />
+          <EntitySet Name="questions" EntityType="Self.questions" />
+          <EntitySet Name="topics" EntityType="Self.topics" />
+          <EntitySet Name="users" EntityType="Self.users" />
+          <AssociationSet Name="FK_answers_questions" Association="Self.FK_answers_questions">
+            <End Role="questions" EntitySet="questions" />
+            <End Role="answers" EntitySet="answers" />
+          </AssociationSet>
+          <AssociationSet Name="FK_questions_topics" Association="Self.FK_questions_topics">
+            <End Role="topics" EntitySet="topics" />
+            <End Role="questions" EntitySet="questions" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище ws20ModelContainer" CdmEntityContainer="ws20Entities">
+          <EntitySetMapping Name="answers">
+            <EntityTypeMapping TypeName="ws20Model.answers">
+              <MappingFragment StoreEntitySet="answers">
+                <ScalarProperty Name="id_answer" ColumnName="id_answer" />
+                <ScalarProperty Name="question_id" ColumnName="question_id" />
+                <ScalarProperty Name="answer_text" ColumnName="answer_text" />
+                <ScalarProperty Name="is_correct" ColumnName="is_correct" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="questions">
+            <EntityTypeMapping TypeName="ws20Model.questions">
+              <MappingFragment StoreEntitySet="questions">
+                <ScalarProperty Name="id_question" ColumnName="id_question" />
+                <ScalarProperty Name="question_text" ColumnName="question_text" />
+                <ScalarProperty Name="correct_answer" ColumnName="correct_answer" />
+                <ScalarProperty Name="comment" ColumnName="comment" />
+                <ScalarProperty Name="topic_id" ColumnName="topic_id" />
+                <ScalarProperty Name="is_picture" ColumnName="is_picture" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="topics">
+            <EntityTypeMapping TypeName="ws20Model.topics">
+              <MappingFragment StoreEntitySet="topics">
+                <ScalarProperty Name="id_topic" ColumnName="id_topic" />
+                <ScalarProperty Name="name_topic" ColumnName="name_topic" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="users">
+            <EntityTypeMapping TypeName="ws20Model.users">
+              <MappingFragment StoreEntitySet="users">
+                <ScalarProperty Name="login" ColumnName="login" />
+                <ScalarProperty Name="password" ColumnName="password" />
+                <ScalarProperty Name="fio" ColumnName="fio" />
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="true" ColumnName="true" />
+                <ScalarProperty Name="false" ColumnName="false" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
